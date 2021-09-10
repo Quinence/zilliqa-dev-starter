@@ -38,10 +38,12 @@ While the smart contracts can technically be deployed and interacted with from t
 
 [Zilpay also has an extensive API](https://zilpay.github.io/zilpay-docs/) whose signature is analogous to the Zilliqa JavaScript Library. It is also recommended when interacting with the Zilliqa Blockchain from client-side applications with dynamic user interactions (e.g. paying with Zilpay).
 
-[Ceres](https://github.com/Zilliqa/ceres) is a great way of getting started with local development. It
+[Ceres](https://github.com/Zilliqa/ceres) is a great way of getting  started with local development instead of working directly with the official testnet, or Zilliqa's Isolated Server environment, see [Ceres on Zilliqa Dev Portal](https://dev.zilliqa.com/docs/dev/dev-tools-ceres/).
+
+Ceres
 > *is a graphical user interface that runs different Zilliqa development tools under Docker containers without the need of user knowing how to use docker or run it's commands. You can focus on Scilla development while Ceres manages Zilliqa Tools for you.*
 
-For example, you can easily start a local isolated server (a test server to run a local Zilliqa network). Simply head to the [Releases](https://github.com/Zilliqa/ceres/releases) and download the latest version for your platform. 
+With ceres you can easily start a local isolated server (a test server to run a local Zilliqa network on, e.g., http://localhost:5555, instead of interacting with https://zilliqa-isolated-server.zilliqa.com/). Simply head to the [Releases](https://github.com/Zilliqa/ceres/releases) and download the latest version for your platform. 
 
 
 ## Building fullstack dApps on the Zilliqa Blockchain
