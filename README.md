@@ -26,6 +26,14 @@ Learning the Scilla smart contract language is the first step of Blockchain deve
 
 The [online IDE](https://ide.zilliqa.com/) for Scilla is a great place to design and test Scilla smart contracts. Pro tip: Use the testnet (and not simulated environment) in the IDE for a consistent experience.
 
-A collection of smart contracts and design patterns can be found at:
+🧵 A collection of smart contracts and design patterns can be found at:
 - [Smart contracts from the IDE](https://github.com/Quinence/zilliqa-scilla-ide-contracts) with more details.
 - [Examples and snippets](https://github.com/TheDrBee/oSCILLAtor) for best practices. 
+
+## Interacting with the Zilliqa Blockchain
+
+While the smart contracts can technically be deployed and interacted with from the online IDE, there are many other ways to interact with the Zilliqa Blockchain programmatically.
+
+👐 The most popular is the [Zilliqa JavaScript Library](https://github.com/Zilliqa/Zilliqa-JavaScript-Library). It has first-class support for TypeScript, and allows to interact with the Zilliqa Blockchain from browser-side application frameworks (e.g. React) as well as any Node.js project (e.g. serverside).
+
+[Zilpay also has an extensive API](https://zilpay.github.io/zilpay-docs/) whose signature is analogous to the Zilliqa JavaScript Library. It is also recommended when interacting with the Zilliqa Blockchain from client-side applications with dynamic user interactions (e.g. paying with Zilpay).
