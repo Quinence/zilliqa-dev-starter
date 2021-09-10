@@ -34,6 +34,12 @@ The [online IDE](https://ide.zilliqa.com/) for Scilla is a great place to design
 
 While the smart contracts can technically be deployed and interacted with from the online IDE, there are many other ways to interact with the Zilliqa Blockchain programmatically.
 
-👐 The most popular is the [Zilliqa JavaScript Library](https://github.com/Zilliqa/Zilliqa-JavaScript-Library). It has first-class support for TypeScript, and allows to interact with the Zilliqa Blockchain from browser-side application frameworks (e.g. React) as well as any Node.js project (e.g. serverside).
+👐 The most popular is the [Zilliqa JavaScript Library](https://github.com/Zilliqa/Zilliqa-JavaScript-Library). It has first-class support for TypeScript, and allows to interact with the Zilliqa Blockchain from browser-side application frameworks (e.g. React) as well as any Node.js project (e.g. serverside). There are implementations in other languages as well, e.g. [the Golang SDK](https://github.com/Zilliqa/gozilliqa-sdk).
 
 [Zilpay also has an extensive API](https://zilpay.github.io/zilpay-docs/) whose signature is analogous to the Zilliqa JavaScript Library. It is also recommended when interacting with the Zilliqa Blockchain from client-side applications with dynamic user interactions (e.g. paying with Zilpay).
+
+## Building fullstack dApps on the Zilliqa Blockchain
+
+Zilliqa provides cutting-edge tools for building dApps. Scilla is strongly typed and safe-by-design — enabling fast and secure smart contract development. The Zilliqa JavaScript Library and the Zilpay API — along with the TypeScript support — allows to effeciently deploy contracts, call methods (called transitions in Zilliqa), interact with the Zilliqa Blockchain.
+
+🚀 Comb through a full-fledged fullstack application on Zilliqa for listing and renting houses: [the code](https://github.com/Quinence/zilliqa-fullstack-app-rentOnZilliqa) and [the walkthrough](https://dev.zilliqa.com/docs/dev/dev-rentonzilliqa-introduction).
