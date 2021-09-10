@@ -43,3 +43,9 @@ While the smart contracts can technically be deployed and interacted with from t
 Zilliqa provides cutting-edge tools for building dApps. Scilla is strongly typed and safe-by-design — enabling fast and secure smart contract development. The Zilliqa JavaScript Library and the Zilpay API — along with the TypeScript support — allows to effeciently deploy contracts, call methods (called transitions in Zilliqa), interact with the Zilliqa Blockchain.
 
 🚀 Comb through a full-fledged fullstack application on Zilliqa for listing and renting houses: [the code](https://github.com/Quinence/zilliqa-fullstack-app-rentOnZilliqa) and [the walkthrough](https://dev.zilliqa.com/docs/dev/dev-rentonzilliqa-introduction).
+
+## Join the gang
+
+The Zilliqa development community is strong. Catch us at [the Telegram group](https://t.me/ZilliqaDevs) or [the Discord Server](https://discord.com/invite/mWp9HdR).
+
+🧑🏻‍💻 Have a project in mind? Quinence is the preferred development partner of Zilliqa. [Reach out for a quick chat](https://quinence.com/).
